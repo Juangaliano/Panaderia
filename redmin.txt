@@ -1,0 +1,2 @@
+Un sistema que permita al usuario elejir entre los direfentes productos del supermercado, 
+y al seleccionarlos se van cargando en una lista y se ve la cantidad
